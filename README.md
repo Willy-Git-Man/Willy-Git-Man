@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Will and I am a Full Stack Software Engineer. I have listed a handful of projects I built below! 
 
 <!--
 **Willy-Git-Man/Willy-Git-Man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
