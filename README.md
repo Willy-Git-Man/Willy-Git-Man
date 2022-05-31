@@ -65,11 +65,11 @@ Cell: 434-242-8614
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
 
-### Database
+<!-- ### Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
+ -->
 
 <!--
 **LaterBlackBird/LaterBlackBird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
