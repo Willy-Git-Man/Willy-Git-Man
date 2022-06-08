@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 William.B.Grossman@gmail.com
 Cell: 434-242-8614
 
-<!-- <a href="https://samhearst.net/" target="_blank">
+<a href="https://samhearst.net/" target="_blank">
   <img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=rss&logoColor=white" />
-</a> -->
+</a>
 
-<!-- <a href="https://angel.co/u/sam-h-11/" target="_blank">
+<a href="https://angel.co/u/sam-h-11/" target="_blank">
   <img src="https://img.shields.io/badge/Angel_List-9933CC?style=for-the-badge&logo=AngelList&logoColor=white" />
-</a> -->
+</a>
 
 ### Languages
 
