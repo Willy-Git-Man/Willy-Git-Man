@@ -1,7 +1,12 @@
 ### Hi there 👋 My name is Will and I am a Full Stack Software Engineer. 
-<a href="https://www.linkedin.com/in/william-b-grossman/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+### Portfolio
+
+<a href="https://willy-git-man.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=rss&logoColor=white" />
 </a>
+
+
 ### Email: william.b.grossman@gmail.com
 ### Cell: 434-242-8614
 
