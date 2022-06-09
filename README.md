@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 
    
-## My Github at a Glance
+## &#x1f4c8; GitHub Stats and Projects
+
 <a href="https://github.com/laterblackbird/laterblackbird">
 <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=laterblackbird&count_private=true&show_icons=true&theme=vue-dark&custom_title=My%20Stats"/>
 </a>
