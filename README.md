@@ -1,27 +1,22 @@
 ### Hi there 👋 My name is Will and I am a Full Stack Software Engineer. I have listed a handful of projects I built below! 
-
-
-**Willy-Git-Man/Willy-Git-Man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
    
 ## &#x1f4c8; GitHub Stats and Projects
 
 <a href="https://github.com/willy-git-man/willy-git-man">
 <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=willy-git-man&count_private=true&show_icons=true&theme=vue-dark&custom_title=My%20Stats"/>
 </a>
+<a href="https://github.com/Willy-Git-Man/Heard-That">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willy-git-man&repo=heard-that&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/Willy-Git-Man/Cartoonstagram">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willy-git-man&repo=cartoonstagram&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/Willy-Git-Man/Git_It_Done">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willy-git-man&repo=git-it-done&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<!-- <a href="https://github.com/Willy-Git-Man/Heard-That">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willy-git-man&repo=heard-that&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> -->
 <!-- <a href="https://github.com/willy-git-man/willy-git-man">
 <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willy-git-man&count_private=true&langs_count=6&hide=shell,ruby&theme=vue-dark&layout=compact&custom_title=Favorite%20Languages&exclude_repo=curriculum,github-slideshow,unified-setup,git-training"/>
 </a> -->
@@ -31,7 +26,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/william-b-grossman/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 
 <a href="https://willy-git-man.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=rss&logoColor=white" />
@@ -68,39 +62,9 @@ Cell: 434-242-8614
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
 
-<!-- ### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
- -->
-
-<!--
-**LaterBlackBird/LaterBlackBird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-<!-- [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/) -->
-
-<!-- # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> -->
-
-
-
-
-## &#x1f4c8; GitHub Stats
-
-<!-- <a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a> -->
