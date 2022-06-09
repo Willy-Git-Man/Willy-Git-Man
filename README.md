@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## &#x1f4c8; GitHub Stats and Projects
 
 <a href="https://github.com/laterblackbird/laterblackbird">
-<img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=laterblackbird&count_private=true&show_icons=true&theme=vue-dark&custom_title=My%20Stats"/>
+<img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=willy-git-man&count_private=true&show_icons=true&theme=vue-dark&custom_title=My%20Stats"/>
 </a>
 <!-- <a href="https://github.com/laterblackbird/laterblackbird">
 <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laterblackbird&count_private=true&langs_count=6&hide=shell,ruby&theme=vue-dark&layout=compact&custom_title=Favorite%20Languages&exclude_repo=curriculum,github-slideshow,unified-setup,git-training"/>
@@ -98,12 +98,12 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<!-- <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+</a> -->
 
 <a href="https://github.com/Willy-Git-Man/Heard-That">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willy-git-man&repo=heard-that&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
