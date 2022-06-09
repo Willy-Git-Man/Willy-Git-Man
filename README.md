@@ -1,27 +1,21 @@
 ### Hi there 👋 My name is Will and I am a Full Stack Software Engineer. 
+### Email: william.b.grossman@gmail.com
 
-### Portfolio
+
+### Portfolio nad LinkedIn
 
 <a href="https://willy-git-man.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=rss&logoColor=white" />
 </a>
 
-
-### Email: william.b.grossman@gmail.com
-### Cell: 434-242-8614
-
-### Let's connect
 <a href="https://www.linkedin.com/in/william-b-grossman/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://willy-git-man.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=rss&logoColor=white" />
-</a>
-
+<!-- 
 <a href="https://angel.co/u/william-grossman-5" target="_blank">
   <img src="https://img.shields.io/badge/Angel_List-9933CC?style=for-the-badge&logo=AngelList&logoColor=white" />
-</a>
+</a> -->
    
 ## &#x1f4c8; GitHub Stats 
 
