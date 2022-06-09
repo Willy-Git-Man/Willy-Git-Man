@@ -1,10 +1,11 @@
 ### Hi there 👋 My name is Will and I am a Full Stack Software Engineer. I have listed a handful of projects I built below! 
    
-## &#x1f4c8; GitHub Stats and Projects
+## &#x1f4c8; GitHub Stats 
 
 <a href="https://github.com/willy-git-man/willy-git-man">
 <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=willy-git-man&count_private=true&show_icons=true&theme=vue-dark&custom_title=My%20Stats"/>
 </a>
+## Projects
 <a href="https://github.com/Willy-Git-Man/Heard-That">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willy-git-man&repo=heard-that&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -12,7 +13,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willy-git-man&repo=cartoonstagram&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/Willy-Git-Man/Git_It_Done">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willy-git-man&repo=git-it-done&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willy-git-man&repo=git_it_done&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <!-- <a href="https://github.com/Willy-Git-Man/Heard-That">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willy-git-man&repo=heard-that&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
