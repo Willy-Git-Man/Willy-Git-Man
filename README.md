@@ -5,7 +5,7 @@
 <a href="https://github.com/willy-git-man/willy-git-man">
 <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=willy-git-man&count_private=true&show_icons=true&theme=vue-dark&custom_title=My%20Stats"/>
 </a>
-## Projects
+### Projects
 <a href="https://github.com/Willy-Git-Man/Heard-That">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willy-git-man&repo=heard-that&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
