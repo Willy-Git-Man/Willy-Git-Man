@@ -1,4 +1,19 @@
-### Hi there 👋 My name is Will and I am a Full Stack Software Engineer. I have listed a handful of projects I built below! 
+### Hi there 👋 My name is Will and I am a Full Stack Software Engineer. 
+###Email: william.b.grossman@gmail.com
+###Cell: 434-242-8614
+
+### Let's connect
+<a href="https://www.linkedin.com/in/william-b-grossman/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://willy-git-man.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=rss&logoColor=white" />
+</a>
+
+<a href="https://angel.co/u/william-grossman-5" target="_blank">
+  <img src="https://img.shields.io/badge/Angel_List-9933CC?style=for-the-badge&logo=AngelList&logoColor=white" />
+</a>
    
 ## &#x1f4c8; GitHub Stats 
 
@@ -17,29 +32,7 @@
 <a href="https://github.com/Willy-Git-Man/Git_It_Done">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willy-git-man&repo=git_it_done&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<!-- <a href="https://github.com/Willy-Git-Man/Heard-That">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willy-git-man&repo=heard-that&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> -->
-<!-- <a href="https://github.com/willy-git-man/willy-git-man">
-<img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willy-git-man&count_private=true&langs_count=6&hide=shell,ruby&theme=vue-dark&layout=compact&custom_title=Favorite%20Languages&exclude_repo=curriculum,github-slideshow,unified-setup,git-training"/>
-</a> -->
 
-
-### Let's connect
-<a href="https://www.linkedin.com/in/william-b-grossman/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://willy-git-man.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=rss&logoColor=white" />
-</a>
-
-<a href="https://angel.co/u/william-grossman-5" target="_blank">
-  <img src="https://img.shields.io/badge/Angel_List-9933CC?style=for-the-badge&logo=AngelList&logoColor=white" />
-</a>
-
-William.B.Grossman@gmail.com
-Cell: 434-242-8614
 
 ### Languages
 
