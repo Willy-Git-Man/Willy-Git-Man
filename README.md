@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Will and I am a Full Stack Software Engineer. I have listed a handful of projects I built below! 
 
-<!--
+
 **Willy-Git-Man/Willy-Git-Man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,18 +13,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
    
 ## &#x1f4c8; GitHub Stats and Projects
 
-<a href="https://github.com/laterblackbird/laterblackbird">
+<a href="https://github.com/willy-git-man/willy-git-man">
 <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=willy-git-man&count_private=true&show_icons=true&theme=vue-dark&custom_title=My%20Stats"/>
 </a>
-<a href="https://github.com/laterblackbird/laterblackbird">
+<!-- <a href="https://github.com/willy-git-man/willy-git-man">
 <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willy-git-man&count_private=true&langs_count=6&hide=shell,ruby&theme=vue-dark&layout=compact&custom_title=Favorite%20Languages&exclude_repo=curriculum,github-slideshow,unified-setup,git-training"/>
-</a>
+</a> -->
 
 
 ### Let's connect
